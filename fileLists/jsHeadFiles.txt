@@ -1,0 +1,5 @@
+http://cache1.stubhubstatic.com/promotions/scratch/test/mbox.js
+http://cache1.stubhubstatic.com/promotions/scratch/foresee_v3/foresee-trigger.js
+http://cache1.stubhubstatic.com/promotions/scratch/lt/getCookie.js
+http://cache1.stubhubstatic.com/promotions/scratch/lt/omniSearch_02.js
+http://cache1.stubhubstatic.com/promotions/scratch/lt/promise-3.2.0.min.js

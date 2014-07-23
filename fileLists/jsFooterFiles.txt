@@ -1,0 +1,4 @@
+http://cache1.stubhubstatic.com/promotions/scratch/test/s_code_common_20131024.js
+http://cache1.stubhubstatic.com/promotions/scratch/lt/bubble.min-1.0.js
+http://cache1.stubhubstatic.com/promotions/scratch/content/common-1.0.min.js
+http://cache1.stubhubstatic.com/promotions/scratch/lt/content-1.1.min.js
